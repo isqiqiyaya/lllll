@@ -1,0 +1,52 @@
+.xx{
+    color:red;
+    height:100px;
+}
+#c2{
+    color:pink;
+    }
+li{
+    color:green;
+}
+.c7 li{
+    color:pink;
+}
+.c3{
+    color:pink !important;
+    border:1px solid red;
+}
+.c4{
+    color:blue;
+}
+input[type='text']{
+    border:1px solid red;
+}
+.c6{
+    display:inline-block;
+    width:100px;
+    height:20px;
+    border:1px solid red;
+    text-align:center;
+    text-height:59px;
+}
+.c8{
+    color:#D8BFD8;
+    font-size:58px;
+    font-weight:600;
+    font-family:"宋体”,”Arial Narrow”;
+}
+.c9{
+    float:left;
+    width:200px;
+    height:178px;
+    border:1px solid red;
+    padding:20px 30px 5px 10px;
+    margin-left:10px
+}
+.a1{
+    width:980px;
+    margin:0 auto;
+}
+body{
+    margin:0;
+}
